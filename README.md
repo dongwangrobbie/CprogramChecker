@@ -42,13 +42,6 @@ help
 ●	If we process a directory, the system will check all “.c” files and show their vulnerabilities.
 <variable name>.eAll()
 ```
-### **Video Tutorial**
----
-https://www.youtube.com/########
-
-### **The GitPage**
----
-https://kensybernadeau.github.io/PLP_Titanium/
 
 ### **Install**
 ---
